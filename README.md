@@ -357,7 +357,7 @@ A plugin that codifies the post-IPAB procedural skeletons + the IPD-Rules nomenc
 
 Foreign legal-AI tools cannot fill this gap. The procedural conventions are jurisdiction-specific; the statutory framework is Indian Copyright Act 1957 / Trade Marks Act 1999 / Patents Act 1970 / Designs Act 2000 / Tribunals Reforms Act 2021 which no foreign training data has indexed at depth; the formatting requirements at the Registry counter of the Delhi HC IPD / Madras HC IPD / a District Court Commercial Division are matters of bench practice that no foreign tool has encountered.
 
-This plugin opens that door. It is most-deeply-validated for the practice idiom of the author at the Bombay High Court Nagpur Bench, and shall be deepened with respect to other benches as community contributors raise GitHub issues and Pull Requests with their bench's specific Practice Directions.
+This plugin opens that door.
 
 ---
 

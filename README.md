@@ -1,3 +1,16 @@
+<div align="center">
+  <img src="docs/banner.png" width="820"/>
+  <p><strong>Open-source Claude plugin for drafting Indian IP litigation — copyright, trademark, patent, and design pleadings before High Court IP Divisions.</strong></p>
+  Visit the live site: <a href="https://wolfgangrush.github.io">wolfgangrush.github.io</a>
+
+  <br>
+
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://github.com/Wolfgangrush/indian-ip-drafting/issues"><img src="https://img.shields.io/github/issues/Wolfgangrush/indian-ip-drafting" alt="GitHub issues"></a>
+  <a href="https://github.com/Wolfgangrush/indian-ip-drafting/stargazers"><img src="https://img.shields.io/github/stars/Wolfgangrush/indian-ip-drafting" alt="GitHub stars"></a>
+</div>
+
+
 # indian-ip-drafting
 
 > **Open-source Claude-compatible plugin for drafting Indian intellectual-property litigation pleadings — copyright, trade marks, passing-off, patents, and designs.**
